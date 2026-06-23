@@ -1,0 +1,19 @@
+# Môi trường ảo
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Streamlit & IDE
+.streamlit/secrets.toml
+.idea/
+.vscode/
+.DS_Store
+
+# Cache LanguageTool / NLTK tải về
+*.zip
+nltk_data/
