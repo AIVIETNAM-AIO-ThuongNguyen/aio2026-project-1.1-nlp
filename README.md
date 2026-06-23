@@ -139,9 +139,6 @@ aio2026-project-1.1-nlp/
 2. New app -> chọn repo này -> nhánh main.
 3. Main file path: src/project_1_1.py -> Deploy.
 
-> 🇬🇧 Note: on the cloud, App 2 (Grammar) may run without Java and will use the public LanguageTool API.
-> 🇻🇳 Lưu ý: trên cloud, App 2 (Grammar) có thể chạy không có Java và sẽ dùng API công khai của LanguageTool.
-
 ---
 
 ## 👤 Author · Tác giả
