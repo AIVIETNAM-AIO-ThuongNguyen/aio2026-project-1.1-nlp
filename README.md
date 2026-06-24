@@ -18,6 +18,35 @@
 
 ---
 
+## 🎬 Demo · Minh hoạ trực quan
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🌐 App 1 — Translation & Spell Check</b><br/>
+      <sub><code>project_1_1.py</code></sub>
+    </td>
+    <td align="center" width="50%">
+      <b>📝 App 2 — Grammar Check (Extended)</b><br/>
+      <sub><code>project_1_1_grammar_check.py</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/project_1_1_demo.gif" alt="Project 1.1 Translation and Spell Check Demo" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="assets/demo_project_1_1_grammar_check.gif" alt="Project 1.1 Grammar Check Demo" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+> 🇬🇧 Side-by-side demo of the two NLP apps: Translation/Spell Check (left) and Grammar Check (right).
+> 🇻🇳 Minh hoạ song song hai ứng dụng NLP: Dịch/Sửa chính tả (trái) và Kiểm tra ngữ pháp (phải).
+
+
+---
+
 ## 📑 Table of Contents · Mục lục
 
 - [Features · Tính năng](#-features--tính-năng)
@@ -92,7 +121,7 @@ aio2026-project-1.1-nlp/
 ### Installation · Cài đặt
 
     # 1) Clone the repo · Tải mã nguồn
-    git clone https://github.com/<username>/aio2026-project-1.1-nlp.git
+    git clone https://github.com/AIVIETNAM-AIO-ThuongNguyen/aio2026-project-1.1-nlp.git
     cd aio2026-project-1.1-nlp
 
     # 2) Create & activate a virtual environment · Tạo & kích hoạt môi trường ảo
