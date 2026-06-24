@@ -9,6 +9,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-3DA639)
 ![Code style](https://img.shields.io/badge/code%20style-PEP%208-1f6feb)
+[![Python application](https://github.com/AIVIETNAM-AIO-ThuongNguyen/aio2026-project-1.1-nlp/actions/workflows/python-app.yml/badge.svg)](https://github.com/AIVIETNAM-AIO-ThuongNguyen/aio2026-project-1.1-nlp/actions/workflows/python-app.yml)
 
 > 🇬🇧 **EN** — A two-app NLP toolkit built with Streamlit for AIO 2026 (Module 01 — Project 1.1): **Translation + Spell Checking** (`project_1_1.py`) and **Grammar Checking** (`project_1_1_grammar_check.py`).
 >
