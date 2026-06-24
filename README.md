@@ -15,7 +15,7 @@
 >
 > 🇻🇳 **VI** — Bộ đôi ứng dụng NLP xây bằng Streamlit cho AIO 2026 (Module 01 — Project 1.1): **Dịch + Sửa chính tả** (`project_1_1.py`) và **Kiểm tra ngữ pháp** (`project_1_1_grammar_check.py`).
 
-🔗 **Live demo for Project 1.1:** https://aio2026-project-11-nlp-bvlhsybdbguf7zgmqmdkhp.streamlit.app/
+🔗 **Live Streamlit App for Project 1.1:** https://aio2026-project-11-nlp-bvlhsybdbguf7zgmqmdkhp.streamlit.app/
 
 ---
 
